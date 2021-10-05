@@ -5,3 +5,13 @@ Urutan dalam Metode Waterfall bersifat serial yang dimulai dari proses -perencan
                                                                        -desain
                                                                        -implementasi pada sistem.
                                                                        
+  Metode ini dilakukan dengan pendekatan yang sistematis, mulai dari 
+  1. tahap kebutuhan sistem lalu 
+  2.tahap analisis
+  3.desain
+  4.coding
+  5.testing/verification
+  6.maintenance. 
+  Langkah demi langkah yang dilalui harus diselesaikan satu per satu (tidak dapat meloncat ke tahap berikutnya) dan berjalan secara berurutan, 
+  oleh karena itu di sebut waterfall (Air Terjun).
+
