@@ -1,0 +1,2 @@
+Metode air terjun atau yang sering disebut metode waterfall sering dinamakan siklus hidup klasik (classic life cycle),
+nama model ini sebenarnya adalah “Linear Sequential Model”, dimana hal ini menggambarkan pendekatan yang sistematis dan juga berurutan pada pengembangan perangkat lunak,
