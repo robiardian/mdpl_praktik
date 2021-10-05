@@ -1,0 +1,7 @@
+Metode Waterfall merupakan metode pengembangan perangkat lunak tertua yang sifatnya natural. 
+Metode Waterfall merupakan pendekatan SDLC(Software Development Life Cycle) paling awal yang digunakan untuk pengembangan perangkat lunak. 
+Urutan dalam Metode Waterfall bersifat serial yang dimulai dari proses -perencanaan
+                                                                       -analisa
+                                                                       -desain
+                                                                       -implementasi pada sistem.
+                                                                       
