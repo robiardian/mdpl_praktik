@@ -1,0 +1,20 @@
+Metode Waterfall merupakan metode pengembangan perangkat lunak tertua yang sifatnya natural. 
+Metode Waterfall merupakan pendekatan SDLC(Software Development Life Cycle) paling awal yang digunakan untuk pengembangan perangkat lunak. 
+Urutan dalam Metode Waterfall bersifat serial.
+                                                                       
+  Metode ini dilakukan dengan pendekatan yang sistematis, mulai dari 
+  1. tahap kebutuhan sistem lalu 
+  2.tahap analisis
+  3.desain
+  4.coding
+  5.testing/verification
+  6.maintenance. 
+  Langkah demi langkah yang dilalui harus diselesaikan satu per satu (tidak dapat meloncat ke tahap berikutnya) dan berjalan secara berurutan, 
+  oleh karena itu di sebut waterfall (Air Terjun).
+
+Tahap-Tahap Metode Waterfall
+A.Requirement Analysis
+B.System and Software Design
+C.Implementation and Unit Testing
+D.Integration and System Testing
+E.Operation and Maintenance
